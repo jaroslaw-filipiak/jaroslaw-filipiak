@@ -8,6 +8,7 @@ now i'm going into React/Next.js/React Native learning path. I have experience w
 i am master on searching Stackoverflow but maybe more chat GPT now :)
 
 =================
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### I'm open for new exciting proggraming opportunities
 
